@@ -1,0 +1,6 @@
+        Comparing :            two_a.txt           two_b.txt        % Difference
+             MEAN :           0.00243506          0.00230615             5.43769
+      STANDARD DEV:             0.111609            0.103845             7.20701
+          VARIANCE:             0.334079             0.32225             3.60468
+     AVERAGE POWER:             0.111615             0.10385              7.2072
+ AVERAGE MAGNITUDE:             0.226944            0.273091             18.4577
